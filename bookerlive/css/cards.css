@@ -1,0 +1,30 @@
+.hotel-booking-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hotel-booking-form .form-label {
+    font-weight: 600;
+  }
+  
+  .hotel-booking-form .form-control {
+    border-radius: 5px;
+  }
+  
+  .hotel-booking-form .form-select {
+    border-radius: 5px;
+  }
+  
+  .hotel-booking-form button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hotel-booking-form button:hover {
+    background-color: #c82333;
+  }
+  

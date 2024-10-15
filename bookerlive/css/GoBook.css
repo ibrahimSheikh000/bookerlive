@@ -1,0 +1,60 @@
+.hero-section {
+    position: relative;
+    color: white;
+    text-align: center;
+  }
+
+
+  
+  h1.display-4{ 
+    font-size: 5rem;
+    margin-bottom: 0.5rem;
+    text-align: left;
+  }
+  
+  .text-go {
+    font-weight: bold;
+    color: black; 
+  }
+  
+  .text-book {
+    color: black; 
+  }
+  
+  .text-booker {
+    color: black; 
+    font-weight: bold;
+  }
+
+  .text-with{
+    color: black;
+  }
+  
+  .text-live {
+    color: black; 
+  }
+  
+  p {
+    font-size: 1.5rem;
+    color: #1f1f1f;
+    text-align: left;
+  }
+  
+  .options h3 {
+    color: #000;
+    font-weight: 500px;
+    transition: 0.3s;
+  }
+  
+  .options h3:hover {
+    color: #ff007f; 
+  }
+  
+  .options {
+    font-size: 1.5rem;
+  }
+  h3.text-hotels {
+    color: black;
+    font: 0.5rem;
+  }
+  

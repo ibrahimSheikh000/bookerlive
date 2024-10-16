@@ -1,7 +1,7 @@
 import React, {useState, useEffect}from 'react'
 import {Navbar, Nav, Container, Row, Col} from 'react-bootstrap'
 import "../css/Navbar.css"
-import logo from '../images/logo (1).PNG'
+import logo from '../images/logo1.JPG'
 const NavbarComponent = () => {
     const [NavbarBackground, setNavbarBackground] = useState(false);
     const changeNavbarBackground = () => {

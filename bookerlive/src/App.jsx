@@ -4,6 +4,9 @@ import NavbarComponent from '../components/Navbar';
 import GoBook from '../components/GoBook';
 import BookingForm from '../components/cards';
 import FeatureHighlights from '../components/featureHighlight';
+import CityShowcase from '../components/cityShowcase';
+import TourPackages from '../components/tourPackages';
+import Footer from '../components/footer';
 
 function App() {
 
@@ -13,6 +16,9 @@ function App() {
     <GoBook/>
     <BookingForm/>
     <FeatureHighlights/>
+    <CityShowcase/>
+    <TourPackages/>
+    <Footer/>
     </>
   )
 }

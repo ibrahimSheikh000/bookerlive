@@ -5,7 +5,7 @@ const GoBook = () => {
   return (
     <div className="hero-section d-flex flex-column justify-content-between" 
       style={{ 
-        backgroundImage: '/images/01.jpg', 
+        backgroundImage: 'url(/images/01.jpg)', 
         backgroundSize: 'cover', 
         minHeight: '80vh', 
         backgroundPosition: 'center' 

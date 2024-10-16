@@ -13,10 +13,10 @@ const CityCard = ({ city, image }) => (
 
 const CityShowcase = () => {
   const cities = [
-    { name: 'Bangkok', image: '/images/Bangkok.jpg'},
-    { name: 'Hong Kong', image: '/images/HongKong.jpg'},
-    { name: 'London', image: '/images/london5.jpg'},
-    { name: 'New York', image:'/images/Newyork.jpg' }
+    { name: 'Bangkok', image: '../../images/Bangkok.jpg'},
+    { name: 'Hong Kong', image: '../../images/HongKong.jpg'},
+    { name: 'London', image: '/../..images/london5.jpg'},
+    { name: 'New York', image:'/../..images/Newyork.jpg' }
   ];
 
   return (

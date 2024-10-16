@@ -1,0 +1,29 @@
+.navbar-transparent {
+    background-color: transparent;
+    transition: background-color 0.4s ease;
+  }
+  
+  .navbar-colored {
+    background-color: white;
+    transition: background-color 0.4s ease;
+  }
+  
+  .nav-link {
+    color: black;
+    font-weight: 600px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+  
+  .nav-link:hover {
+    color: #ff3d60; 
+  }
+  
+  .navbar-logo {
+    width: 200px;
+    height: auto;
+    margin-left: -20px;
+  }
+  

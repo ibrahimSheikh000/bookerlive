@@ -1,0 +1,72 @@
+.hero-section {
+  position: relative;
+  color: white;
+  max-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 0;
+}
+
+.hero-content {
+  text-align: left;
+  padding-left: 5%; 
+  padding-top: 25vh; 
+}
+
+h1.display-4 { 
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.text-go {
+  font-weight: bold;
+  color: black; 
+}
+
+.text-book, .text-with, .text-live {
+  color: black; 
+}
+
+.text-booker {
+  color: black; 
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #1f1f1f;
+  text-align: left;
+}
+
+.booking-options {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.options {
+  font-size: 1.5rem;
+}
+
+.options h3 {
+  color: #000;
+  font-weight: 500;
+  transition: 0.3s;
+  margin: 0;
+}
+
+.options h3:hover {
+  color: #ff007f; 
+}
+
+.text-hotels, .text-flights{
+  display: inline-flex;
+  color: rgb(91, 81, 81);
+  padding-top: 40px;
+
+}
+.text-o{
+  color:rgb(91, 81, 81); 
+  font-size: 100;
+}

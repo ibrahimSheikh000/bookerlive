@@ -1,0 +1,61 @@
+.destinations-heading {
+    margin-top: 100px;
+    text-align: left; 
+    margin-bottom: 2px; 
+    margin-left: 70px;
+    font-size: 45px;
+  }
+  
+  .top-text {
+    font-weight: bold; 
+  }
+  
+  .dest-text { 
+    font-weight: 300; 
+    color: black; 
+  }
+
+  @media (max-width: 1200px) {
+    .destinations-heading {
+      font-size: 2.5rem; 
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .destinations-heading {
+      font-size: 2rem; 
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .destinations-heading {
+      font-size: 1.8rem; 
+    }
+  }
+
+.city-card {
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  
+  .image-container {
+    overflow: hidden;
+  }
+  
+  .city-card img {
+    transition: transform 0.3s ease;
+    max-width: 150%;
+  }
+  
+  .city-card:hover img {
+    transform: scale(1.05);
+  }
+  
+  .city-name{
+    text-align: left;
+  }
+  
+  .city-card:hover .city-name {
+    color: #dc3545;  
+  }

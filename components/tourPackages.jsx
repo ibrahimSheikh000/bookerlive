@@ -14,7 +14,7 @@ function TourPackages() {
 
   const tourPackages = [
     {
-      src: '../images/rome.jpg',
+      src: '../images/rome.JPG',
       alt: 'Rome',
       title: 'Rome to Naples and Amalfi Coast Adventure',
       location: 'Italy',
@@ -24,7 +24,7 @@ function TourPackages() {
       price: '$125.99',
     },
     {
-      src: '../images/everest.jpg',
+      src: '../images/everest.JPG',
       alt: 'Everest',
       title: 'Everest Base Camp Trek through 3 High Passes',
       location: 'Nepal',
@@ -34,7 +34,7 @@ function TourPackages() {
       price: '$125.99',
     },
     {
-    src: '../images/vietnam.jpg',
+    src: '../images/vietnam.JPG',
     alt: 'Vietnam',
     title: '10 Days from the South to the North of Vietnam',
     location: 'Vietnam',
@@ -44,7 +44,7 @@ function TourPackages() {
     price: '$125.99',
   }, 
    {
-    src: '../images/Adriatic.jpg',
+    src: '../images/Adriatic.JPG',
     alt: 'Adriatic',
     title: 'Adriatic Adventure-Zagreb to Athens',
     location: 'Greece',
@@ -54,7 +54,7 @@ function TourPackages() {
     price: '$125.99',
   },
   {
-    src: '../images/Asian.jpg',
+    src: '../images/Asian.JPG',
     alt: 'Asian',
     title: 'Asian Adventure',
     location: '3 Countries',
@@ -64,7 +64,7 @@ function TourPackages() {
     price: '$125.99',
   },
   {
-    src: '../images/Costa.jpg',
+    src: '../images/Costa.JPG',
     alt: 'Costa',
     title: 'Jewels of Costa Rica',
     location: 'Costa Rica',
